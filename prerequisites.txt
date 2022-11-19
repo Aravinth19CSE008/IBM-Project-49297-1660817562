@@ -1,0 +1,34 @@
+
+Abstract: 
+
+       Smart farming has the potential to overcome the challenge of 2050 to feed 10 billion people.      
+Both artificial intelligence (AI) and the internet of things (IoT) have become critical prerequisites to
+smart farming due to their high interoperability, sensors, and cutting-edge technologies. Extending
+the role of responsible leadership, this paper proposes an AI and IoT based smart farming system in
+Bangladesh. With a comprehensive literature review, this paper counsels the need to go beyond the
+simple application of traditional farming and irrigation practices and recommends implementing
+smart farming enabling responsible leadership to uphold sustainable agriculture. It contributes to
+the current literature of smart farming in several ways. First, this paper helps to understand the
+prospect and challenges of both AI and IoT and the requirement of smart farming in a nonwestern
+context. Second, it clarifies the interventions of responsible leadership into Bangladesh’s agriculture
+sector and justifies the demand for sustainable smart farming. Third, this paper is a step forward
+to explore future empirical studies for the effective and efficient use of AI and IoT to adopt smart
+farming. Finally, this paper will help policymakers to take responsible initiatives to plan and apply
+smart farming in1. 
+
+Introduction:
+
+        The 2050 goal of sustainable farming is to increase agricultural yield to meet the food
+demand of 10 billion people and calls for smart farming [1]. The concept of smart farm￾ing refers to the 
+application of cutting-edge technologies, including artificial intelligence
+(AI), internet of things (IoT), and high-speed wireless network into farming practices to
+maximize agricultural production and sustainability [2–4]. Following the trend and devel￾opment, 
+traditional agriculture practices are converting into new wireless and innovative
+technologies for both cultivation and supply chain management in Bangladesh. Moreover,
+the concept of Agri-Food 4.0 has initiated a revolution in traditional farming by introducing
+the fifth generation or 5G wireless communication technology to the field [4]. Agri-Food
+4.0 refers to a comprehensive digitalized approach for higher productivity and practical
+and efficient land management to achieve agricultural sustainability, quality of life for
+farmers, and overall competitiveness of the sector [5].
+On the other hand, the role of leadership has been identified as one of the significant
+contributors to agricultural development across the world [6]. a developing economy like Bangladesh
